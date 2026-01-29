@@ -32,7 +32,7 @@ The proposed system integrates three main components:
 
 2\. \*\*Quantum-Enhanced Feature Transformation\*\*  
 
-&nbsp;  A lightweight variational quantum circuit (CF2-style entanglement with angle encoding) is used as a nonlinear feature transformation layer.  
+&nbsp;  A lightweight variational quantum circuit (entanglement with angle encoding) is used as a nonlinear feature transformation layer.  
 
 &nbsp;  This module operates at the \*\*feature level\*\*, not as a full quantum recurrent network, ensuring scalability under NISQ-era constraints.
 
