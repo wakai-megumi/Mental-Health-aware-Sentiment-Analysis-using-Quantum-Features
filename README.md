@@ -309,6 +309,7 @@ Core dependencies include:
 
 
 If you use this code or build upon this work, please cite the corresponding paper.
+"Mental health-aware sentiment analysis using a hybrid quantum–classical approach"
 
 
 
